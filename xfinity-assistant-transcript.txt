@@ -1,0 +1,270 @@
+--- Conversation on 09/23/2025 ---
+
+Xfinity Assistant (12:00 pm): Your automatic payment of $289.67 to Xfinity has processed - thank you. Review bill details here: https://customer.xfinity.com/billing/servicesTxtHelpOrStopMsg&amp;DataRatesMayApply
+
+--- Conversation on 10/10/2025 ---
+
+Brandon (10:38 pm): manage plan
+
+Xfinity Assistant (10:38 pm): Your plan includes Xfinity Internet and TV services\n\n
+
+Xfinity Assistant (10:38 pm): How can I help you with your plan?
+
+Xfinity Assistant (10:38 pm): Good afternoon, Brandon. I'm Xfinity Assistant, here for you 24 hours a day. To get started, ask me a question. Or here are some things we can chat about.
+
+Brandon (10:38 pm): Change my Xfinity plan
+
+Xfinity Assistant (10:38 pm): What changes would you like to make to your Xfinity Plan?
+
+Brandon (10:38 pm): My Xfinity TV
+
+Xfinity Assistant (10:38 pm): How can I help you with your Xfinity TV?
+
+Brandon (10:46 pm): live agent
+
+Xfinity Assistant (10:46 pm): Thanks, I can help with most issues, but I'll put you in touch with an agent if you need more assistance. What do you need help with today?
+
+Brandon (10:46 pm): live agent
+
+Xfinity Assistant (10:46 pm): Thanks, I can help with most issues, but I'll put you in touch with an agent if you need more assistance. What do you need help with today?
+
+Brandon (10:46 pm): changing plan
+
+Xfinity Assistant (10:46 pm): Your plan includes Xfinity Internet and TV services\n\n
+
+Xfinity Assistant (10:46 pm): How can I help you with your plan?
+
+Brandon (10:47 pm): change my plan. 
+
+Xfinity Assistant (10:47 pm): Your plan includes Xfinity Internet and TV services\n\n
+
+Xfinity Assistant (10:47 pm): How can I help you with your plan?
+
+Brandon (10:47 pm): Change my Xfinity plan
+
+Xfinity Assistant (10:47 pm): What changes would you like to make to your Xfinity Plan?
+
+Brandon (10:47 pm): My Xfinity TV
+
+Xfinity Assistant (10:47 pm): How can I help you with your Xfinity TV?
+
+Brandon (10:47 pm): Remove a channel
+
+Xfinity Assistant (10:47 pm): No problem. You can manage your premium channels by selecting the \"Remove a channel\" button below.&nbsp;Before you go, here are some tips.&nbsp;To remove a channel, uncheck the box just below the one you want to remove.&nbsp;The channel will be removed from your monthly plan and you will be able to view your new monthly plan on the right side of your screen.&nbsp;Don't forget to review your changes and submit your order.
+
+Brandon (10:50 pm): live agent
+
+Xfinity Assistant (10:50 pm): Thanks, I can help with most issues, but I'll put you in touch with an agent if you need more assistance. What do you need help with today?
+
+Brandon (10:58 pm): Customer service phone number
+
+Xfinity Assistant (10:58 pm): Thanks, I can help with most issues, but I'll put you in touch with an agent if you need more assistance. What do you need help with today?
+
+Brandon (10:58 pm): Troubleshooting help
+
+Xfinity Assistant (10:58 pm): Which service are you having trouble with? If there are multiple issues, please start by selecting one of the impacted services below.
+
+Brandon (10:58 pm): Billing questions
+
+Xfinity Assistant (10:58 pm): How can I help you with your bill?
+
+Brandon (10:58 pm): Chat with an agent 
+
+Xfinity Assistant (10:58 pm): No problem. I'll put you in touch with a live agent now.
+
+Agent (10:59 pm): Hi Brandon, thank you for contacting Xfinity. My name is Om. I see you may have questions about your bill. Is that correct?
+
+nullAgent (10:59 pm): No problem.
+
+Agent (11:00 pm): You are now connected with the Internet Billing team.
+
+Agent (11:00 pm): May I have your full service address and full name to verify the account?
+
+nullnullAgent (11:00 pm): Perfect
+
+Agent (11:00 pm): Thanks for checking.
+
+Agent (11:00 pm): Meanwhile, may I know who your mobile provider is?
+
+Agent (11:00 pm): 
+
+nullAgent (11:01 pm): How much is your line price, and how much data do you get each month?
+
+nullAgent (11:02 pm): I understand your side, but does that include unlimited data?
+
+nullAgent (11:02 pm): Does it include access to hotspots?
+
+nullAgent (11:03 pm): Thanks for sharing. I appreciate your cooperation.
+
+nullAgent (11:06 pm): Now, may I ask if you want to keep HBO Max, Hitz, DVR, Showtime, Strm Pxacl, and Limit Bas?
+
+nullnullAgent (11:08 pm): Thank you for confirming.
+
+Agent (11:08 pm): Please allow me a couple of minutes to review the new plans on your account.
+
+nullAgent (11:11 pm): While working on your account, I found that with the new plan, you are eligible for a new iPad 11th Generation.
+
+Agent (11:11 pm): How does that sound?
+
+nullAgent (11:12 pm): Let me share the pricing.
+
+Agent (11:12 pm): Currently, your monthly bill is around $300.
+
+Agent (11:13 pm): I find it very expensive.
+
+nullAgent (11:14 pm): To check the final pricing, I will be sending you a secure link.
+
+Agent (11:14 pm): I will be sending you a link where you need to enter the account holderâs/ownerâs SSN and DOB. Shall I share the link?
+
+nullAgent (11:15 pm): Your personalized secure data link is https://iguard-po-1pp.slb.comcast.com:9443/ui?JYegiabcQQSo6zXUxTtgDo  Please use this link to our secure information site to safely enter the requested information. I'll be available if you have any questions throughout the process.
+
+Agent (11:16 pm): Thank you for confirming.
+
+nullAgent (11:16 pm): There are two color options: Blue and Pink.
+
+Agent (11:17 pm): May I know what your choice will be?
+
+nullAgent (11:20 pm): Thanks! Here are the plan details. It includes Ultimate Cable, and your new speed in the Next Gen plan will be 1 Gig with unlimited data, along with an iPad 11th Gen for just $264/mo.
+
+Agent (11:21 pm): This price will be good for the next 24 months with an agreement, and the internet price will be good for 5 years. It will also be good for the next 60 months without a contract.
+
+Agent (11:22 pm): Once 24 months are completed, the monthly price will be reduced by another $20 and will become $244/mo.
+
+nullnullAgent (11:23 pm): The plan you are seeing online does not include taxes and fees. The price I am sharing is after taxes and fees.
+
+Agent (11:23 pm): Yes, in 24 months.
+
+nullAgent (11:23 pm): It is $200.50
+
+Agent (11:24 pm): And if you enroll in autopay via bank account, it will be reduced by an additional $10.
+
+Agent (11:24 pm): I believe it is the same plan you see online.
+
+Agent (11:24 pm): 
+
+nullnullAgent (11:26 pm): The iPad is actually an additional incentive with this plan, and you can use it for streaming. If you have kids at home, it can also be used for educational videos.
+
+nullAgent (11:29 pm): Yes, I understand. The plan without the iPad will be a little bit higher.
+
+Agent (11:29 pm): That is why I shared the plan.
+
+nullAgent (11:31 pm): My only intention here is to reduce your bill to a greater extent and help you get maximum savings.
+
+Agent (11:32 pm): The promotion I shared will reduce the price by an additional $20 after 24 months.
+
+nullAgent (11:32 pm): So, it is an additional good part.
+
+nullAgent (11:33 pm): Let me see what other offers I have.
+
+Agent (11:34 pm): May I know what kind of channels you watch the most?
+
+nullAgent (11:35 pm): Let me check with my supervisor.
+
+nullAgent (11:38 pm): I have another plan that includes Ultimate Cable, 1 Gig speed, and a new iPhone 16 E with a new number (which will not affect your current mobile services). It comes with an unlimited line free of cost for 12 months at just $248/month. If you enroll in auto pay via bank account, you will receive an additional $10 discount, reducing the price to $238.
+
+nullAgent (11:42 pm): Let me check other plans.
+
+Agent (11:43 pm): I hope we are connected.
+
+nullAgent (11:45 pm): We offer an Internet and cable plan that includes 1000 Mbps Internet. Your Internet plan price will be fixed for 5 years with no contract, and your cable plan will include 185+ channels.
+
+Agent (11:46 pm): You will be paying around $224.99 per month. If you enroll in autopay with a checking account, you will receive a $10 discount, making your bill $214.99 per month.
+
+Agent (11:46 pm): So, you are saving around $85 per month with this plan.
+
+Agent (11:47 pm): How does that sound?
+
+nullAgent (11:48 pm): After all taxes and fees, I have shared the pricing, and I have specially unlocked this deal with the help of my supervisor.
+
+Agent (11:48 pm): Would you like to grab this deal?
+
+nullAgent (11:49 pm): You will be paying approximately $224.99 per month. If you enroll in autopay with a checking account, you will receive a $10 discount, reducing your bill to $214.99 per month after all taxes and fees.
+
+Agent (11:50 pm): Your estimated recurring monthly bill is $224.99, which includes $10.69 in estimated monthly taxes, government, and other fees.
+
+Agent (11:50 pm): If you enroll in autopay using a checking account, you will receive a $10 discount, lowering your bill to $214.99 per month after all taxes and fees.
+
+nullAgent (11:51 pm): You're welcome. This will be in effect from today onwards.
+
+Agent (11:51 pm): Pro rate adjustments will be applied to your current balance as well.
+
+Agent (11:51 pm): Shall I send the order details for your approval to this number: (408) 656-8171?
+
+nullAgent (11:52 pm): Yes, changes will be immediate.
+
+Agent (11:53 pm): I have sent the order details to your text at (408) 656-8171. Please review the information and click "I agree" there.
+
+Agent (11:53 pm): You are ordering the following services: Ultimate TV, which includes Limited Basic, Sports &amp; News, Kids &amp; Family, Entertainment, 50+ additional channels, StreamPix, HD programming, and 20 hours of DVR service. The price for your package is $127.30 per month. This price includes additional Xfinity monthly charges: Broadcast TV Fee at $29.80 per month and Regional Sports Fee at $19.00 per month.
+
+You are also ordering:
+1 Gig for $110.00 per month.
+
+You will receive the following monthly discounts:
+2 Product Discount of $20.00 per month.
+Guarantee Discount of $15.00 per month for 60 months.
+
+You are adding the following equipment and services: X1 TV Box for $12.00 per month.
+
+You are also adding the following equipment and services at no charge: Unlimited Data; Xfinity WiFi Gateway.
+
+The following equipment and services remain unchanged: X1 Platform at no charge.
+
+You are removing the following services: Premier Double Play; X1 TV Box; Gigabit Plus Internet; Gigabit x2; xFi Complete.
+
+Your estimated recurring monthly bill will be $224.99, including $10.69 of estimated monthly taxes, government, and other fees.
+
+Your statement is prepared one month in advance. Your next two bills may differ due to partial month charges, credits, or any one-time charges.
+
+Lastly, I'll review some important details about your order.
+
+You are eligible to receive an included Xfinity Mobile Unlimited line for $0.00 for 1 year. To claim this line, you must purchase Xfinity Mobile within 90 days, and the Unlimited line must be activated within 1 year of purchase. To continue receiving the discount, you must keep Xfinity Mobile with an unlimited plan and 300 Xfinity Internet service or higher for 1 year. If you switch all Xfinity Mobile lines to By the Gig, cancel Xfinity Internet, or downgrade Internet below 300, you will lose the discount.
+
+Regular rates apply after any promotional or price guarantee periods.
+
+You understand and agree that your Xfinity services, including TV content, regular rates, equipment charges, taxes, fees, and other charges (including Broadcast TV Fee and Regional Sports Fee), are subject to change at any time, with or without notice, as permitted by law.
+
+Information on programmer contract expirations, which may affect channel availability, can be found at https://my.xfinity.com/contractrenewals/.
+
+If you have an existing paid Peacock subscription, purchasing Gigabit or higher Xfinity Internet means you will receive an additional Peacock subscription. You will not receive refunds or credits for multiple active Peacock subscriptions. If your existing subscription is billed by Peacock or Xfinity, it will be canceled before your next renewal after activation. If billed by a third party (Apple, Google, Roku, Amazon), you will be charged for both subscriptions until you cancel the existing one. To avoid duplicates, follow Peacock's cancellation instructions at peacocktv.com/help/article/cancellation.
+
+You agree to share certain personal information, including email, account, device, and subscription details, between Xfinity and Peacock to fulfill your service request. Xfinity processes information per its Privacy Policy at xfinity.com/privacy/policy. Peacock processes information as described in its privacy policy.
+
+Use of Peacock's service is governed by the Peacock Terms of Use and Privacy Policy, available at peacocktv.com.
+
+The Peacock Premium offer (currently $10.99/mo. value) is valid for 24 months while subscribed to Gigabit or higher Xfinity Internet. Activation of a Peacock account is required within 90 days of this order. Downgrading Internet below Gigabit will cancel your Peacock plan. After 24 months, the plan will be canceled unless you purchase it at current rates. Upgrading to Peacock Premium Plus is at full price.
+
+You understand and agree that you will be billed monthly for the services and equipment described until you cancel. You may cancel anytime by following instructions at xfinity.com/cancel, subject to terms in the Xfinity Residential Services Agreement.
+
+Agent (11:53 pm): Did you receive the order details on (408) 656-8171?
+
+nullAgent (11:56 pm): Please let me know once you approve the order so I can proceed with finalizing it for you.
+
+nullAgent (11:56 pm): XFI complete features are included in your modem plan.
+
+Agent (11:57 pm): With xFi Complete Advanced Security, you get unlimited data, parental controls, the ability to set a PIN on your Wi-Fi, and protection for your devices against unauthorized viruses and malware. With xFi Complete, you'll be able to power hundreds of devices at once, block billions of threats annually with Advanced Security, enjoy 3x the bandwidth for more reliable connections, and experience super-fast, multi-Gig speeds.
+
+Agent (11:57 pm): These are features of xFi Complete.
+
+Agent (11:58 pm): Your Wi-Fi speed will be 1000 Mbps from now on.
+
+nullAgent (11:58 pm): Please let me know once you approve the order so I can proceed with finalizing it for you.
+
+Agent (11:59 pm): Just for your information:We appreciate you reaching out to explore options for your internet service with us. I would like to inform you that you can view all plan details on our Broadband Facts Labels website at Xfinity.com/labels. Meanwhile, I am also checking plans from my end.
+
+Agent (11:59 pm): Did you receive the order details on (408) 656-8171?
+
+null--- Conversation on 10/11/2025 ---
+
+Agent (12:00 am): Did you receive the order details on (408) 656-8171?
+
+nullAgent (12:01 am): Shall I send the order details for your approval to the email: bcalleja@gmail.com?
+
+nullAgent (12:01 am): I have sent the order details to your email: bcalleja@gmail.com. Please review the information and click "I agree" there.
+
+Agent (12:02 am): Thank you for the approval.
+
+nullAgent (12:06 am): Order ID: XXXXXXXXXXXX2026
+
+Agent (12:06 am): I haven't heard from you for a bit. I'm happy to continue assisting you.
+
+nullnull
